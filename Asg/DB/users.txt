@@ -1,0 +1,3 @@
+1 alice password123 100
+2 bob mysecretpass 50
+3 charlie abc456 75
